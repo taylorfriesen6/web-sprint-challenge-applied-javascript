@@ -75,7 +75,12 @@ There are two possible ways to submit this project to Canvas. Lambda Staff will 
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+a tree-shaped data structure, initially built from the html, which the browser uses to determine how the page should look and act
 2. What is an event?
+anything that happens in the browser that we might want javascript to respond to, like an element being clicked or the page loading
 3. What is an event listener?
+a function set to run whenever a given event happens
 4. Why would we convert a NodeList into an Array?
+in order to apply array methods to it, like .map
 5. What is a component?
+a function which returns an html element
